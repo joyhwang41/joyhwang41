@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Joy Huang</h1>
+<h1 align="center">Hi  I'm Joy Huang</h1>
 <h3 align="center"> MSDS Student @USFCA and Data Scientist intern @UCSF. Passionate about learning cool tech! Open for DS/DE/DA/MLE positions 2023 summer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyhwang41&label=Profile%20views&color=0e75b6&style=flat" alt="joyhwang41" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joyhwang41&rank=-B,-C" alt="joyhwang41" /></a> </p>
 
 - 🔭 I’m currently working on **SparkML/SparkSQL models**
 
