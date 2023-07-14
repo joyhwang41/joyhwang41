@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **SparkML/SparkSQL models**
 
-- 🌱 On MLOps, I’m now learning **Kafka and Hive**
+- 🌱 On MLOps, I’m now learning **Kafka and Kubernetes**
 
 - 🤝 On Machine Learning infra, I’m now learning **MLflow and Jenkins**
 
