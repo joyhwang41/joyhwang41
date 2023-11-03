@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👐 I'm Joy Huang</h1>
-<h3 align="center"> MSDS Student @USFCA and Data Scientist @UCSF. Passionate about learning cool tech! Open for DS/DE/DA/MLE positions 2023 summer.</h3>
+<h3 align="center"> MSDS @USFCA and Data Scientist @UCSF. Passionate about learning cool tech! Open for DS/DE/DA/MLE positions </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyhwang41&label=Profile%20views&color=0e75b6&style=flat" alt="joyhwang41" /> </p>
 
