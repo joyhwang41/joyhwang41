@@ -5,11 +5,13 @@
 
 - 🔭 I’m currently working on **SparkML/SparkSQL models**
 
-- 🌱 On MLOps, I’m skilled at **Kafka, Airflow, GCS, MongoDB and Kubernetes**
+- 🌱 On MLOps, I’m skilled at **Kafka, Airflow, GCS, MongoDB/Pymongo and Kubernetes**
 
 - 🤝 On Large-scale Data Infrastructure, I’m skilled at **Spark, AWS S3, Feature Engineering and ETL**
 
-- 💬 Ask me about  **Data Science and Machine Learning practices**
+- ✨ On Data Analytics and Statistical Modeling, I’m skilled at **Tableau, Pandas, Numpy, Scikit-Learn, SpaCy, Matplotlib, ggplot2 and PyTorch **
+
+- 💬 Ask me about  ** Data Science and Machine Learning practices**
 
 - 📫 How to reach me :       **chuyihuang.xmu@gmail.com**
 
