@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **SparkML/SparkSQL models**
 
-- 🌱 On MLOps, I’m now learning **Kafka and Kubernetes**
+- 🌱 On MLOps, I’m skilled at **Kafka, Airflow, GCS, MongoDB and Kubernetes**
 
 - 🤝 On Large-scale Data Infrastructure, I’m skilled at **Spark, AWS S3, Feature Engineering and ETL**
 
