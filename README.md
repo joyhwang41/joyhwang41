@@ -7,7 +7,7 @@
 
 - 🌱 On MLOps, I’m now learning **Kafka and Kubernetes**
 
-- 🤝 On Machine Learning infra, I’m now learning **MLflow and Jenkins**
+- 🤝 On Data Infrastructure, I’m skilled at **Spark, AWS S3, Feature Engineering and ETL**
 
 - 💬 Ask me about  **Data Science and Machine Learning practices**
 
