@@ -13,7 +13,7 @@
 
 - 📫 How to reach me :       **chuyihuang.xmu@gmail.com**
 
-- 🤓 Fun fact :       Before pivot to ML and DS, I was working in Finance industry, and I cultivated a strong *Product Sense* and *Cross-functional Collaborative Savvy*. and even before that, I was majored in 🦉Chem🦉 and 🦉Econ🦉
+- 🤓 Fun fact :       Before pivot to ML and DS, I was working in Finance industry, and I cultivated a strong sense of **Product Case** and professional **Cross-functional Collaborative Savvy**. and even before that, I was majored in 🦉Chem🦉 and 🦉Econ🦉
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
