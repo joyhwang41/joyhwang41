@@ -11,7 +11,7 @@
 
 - ✨ On Data Analytics and Statistical Modeling, I’m skilled at **Tableau, Pandas, Numpy, Scikit-Learn, SpaCy, Matplotlib, ggplot2 and PyTorch**
 
-- 💬 Ask me about  ** Data Science and Machine Learning practices**
+- 💬 Ask me about  ** A/B Test, Data Science and Machine Learning practices**
 
 - 📫 How to reach me :       **chuyihuang.xmu@gmail.com**
 
