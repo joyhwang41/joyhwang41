@@ -9,7 +9,7 @@
 
 - 🤝 On Large-scale Data Infrastructure, I’m skilled at **Spark, AWS S3, Feature Engineering and ETL**
 
-- ✨ On Data Analytics and Statistical Modeling, I’m skilled at **Tableau, Pandas, Numpy, Scikit-Learn, SpaCy, Matplotlib, ggplot2 and PyTorch **
+- ✨ On Data Analytics and Statistical Modeling, I’m skilled at **Tableau, Pandas, Numpy, Scikit-Learn, SpaCy, Matplotlib, ggplot2 and PyTorch**
 
 - 💬 Ask me about  ** Data Science and Machine Learning practices**
 
